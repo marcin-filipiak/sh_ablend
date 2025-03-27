@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 if [ $# -ne 4 ]; then
     echo "Usage: $0 <file1.mp4> <file2.mp4> <time_ms> <sequence_count>"
